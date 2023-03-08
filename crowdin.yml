@@ -1,0 +1,5 @@
+files:
+  - source: Mod Menu Helper/assets/fo/lang/en_us.json
+    translation: /%original_path%/%locale_with_underscore%.json
+  - source: Chat Reporting Helper/assets/fo/lang/en_us.json
+    translation: /%original_path%/%locale_with_underscore%.json

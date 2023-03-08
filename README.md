@@ -1,6 +1,14 @@
 # Fabulously Optimized
 
-A Fabric-based modpack for Minecraft that focuses on performance and graphics optimizations.
+A Fabric-based Minecraft modpack focusing on performance and graphics enhancements.
+
+[**📜 Mod list**](INCLUDED-MODS.md) | [**🎛️ Changed options**](https://fabulously-optimized.gitbook.io/modpack/readme/changed-options) | [**❤️ Support and contribute**](https://github.com/Fabulously-Optimized/fabulously-optimized/blob/main/CONTRIBUTING.md)
+
+<a href="https://fabulously-optimized.gitbook.io/modpack/"><img alt="Wiki" height="40" src="https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@3/assets/compact/documentation/gitbook_vector.svg"></a> 
+<a href="https://fabulously-optimized.gitbook.io/modpack/readme/language-support"><img alt="Translate" height="40" src="https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@3/assets/compact/translate/generic-plural_vector.svg"></a>
+
+<a href="https://discord.gg/fabulously-optimized-859124104644788234"><img alt="Discord" height="40" src="https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@3/assets/compact/social/discord-plural_vector.svg"></a> 
+<a href="https://floss.social/@fabulouslyoptimized"><img alt="Mastodon" height="40" src="https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@3/assets/compact/social/mastodon-plural_vector.svg"></a>
 
 ## Downloads
 
@@ -12,17 +20,18 @@ Supports CurseForge Launcher, MultiMC, Prism Launcher, GDLauncher, and vanilla l
   <summary>Alternative downloads</summary>
 
 _These downloads do not yet support the modpack or the mods :(_
-* [MultiMC (auto-update)](https://fabulously-optimized.gitbook.io/modpack/readme/multimc-auto-update): [1.16.5](https://github.com/Fabulously-Optimized/fabulously-optimized/releases/download/v3.2.3/Fabulously.Optimized.MC.1.16.5.auto-update.zip) | [1.17.1](https://github.com/Fabulously-Optimized/fabulously-optimized/releases/download/v3.2.3/Fabulously.Optimized.MC.1.17.1.auto-update.zip) | [1.18.2](https://github.com/Fabulously-Optimized/fabulously-optimized/releases/download/v3.12.2/Fabulously.Optimized.MC.1.18.2.auto-update.zip) | [1.19.2](https://github.com/Fabulously-Optimized/fabulously-optimized/releases/download/v4.4.3/Fabulously.Optimized.MC.1.19.2.auto-update.zip)
+* [MultiMC (auto-update)](https://fabulously-optimized.gitbook.io/modpack/readme/multimc-auto-update): [1.16.5](https://github.com/Fabulously-Optimized/fabulously-optimized/releases/download/v3.2.3/Fabulously.Optimized.MC.1.16.5.auto-update.zip) | [1.17.1](https://github.com/Fabulously-Optimized/fabulously-optimized/releases/download/v3.2.3/Fabulously.Optimized.MC.1.17.1.auto-update.zip) | [1.18.2](https://github.com/Fabulously-Optimized/fabulously-optimized/releases/download/v3.12.2/Fabulously.Optimized.MC.1.18.2.auto-update.zip) | [1.19.2](https://github.com/Fabulously-Optimized/fabulously-optimized/releases/download/v4.5.6/Fabulously.Optimized.MC.1.19.2.auto-update.zip) | [1.19.3](https://github.com/Fabulously-Optimized/fabulously-optimized/releases/download/v4.6.0-beta.11/Fabulously.Optimized.MC.1.19.3.auto-update.zip)
 * ~~Vanilla installer~~ [(planned)](https://github.com/Madis0/fabulously-optimized/issues/110)
 * [GitHub releases](https://github.com/Fabulously-Optimized/fabulously-optimized/releases)
+* [Chat Reporting Helper resource pack](https://kinolien.github.io/gitzip/?download=https://github.com/Fabulously-Optimized/fabulously-optimized/tree/main/Resourcepacks/Chat%20Reporting%20Helper) (bundled in FO)
+  * The resource pack also expects [FO's configuration of NCR](https://kinolien.github.io/gitzip/?download=https://github.com/Fabulously-Optimized/fabulously-optimized/tree/main/Packwiz/1.19.3/config/yosbr/config/NoChatReports) - unpack these to `.../.minecraft/config/NoChatReports`
+* Fast Better Grass resource pack: [CurseForge](https://www.curseforge.com/minecraft/texture-packs/fast-better-grass) | [Modrinth](https://modrinth.com/resourcepack/fast-better-grass) | [Planet Minecraft](https://www.planetminecraft.com/texture-pack/fast-better-grass) (bundled in FO)
 </details>
-  
-
 
 Not sure which edition is right for you? Check this handy table!
 | Feature/Edition | [CurseForge Launcher](https://download.curseforge.com) | [MultiMC](https://multimc.org) | [MultiMC](https://multimc.org) (auto-update) | [Prism Launcher](https://prismlauncher.org/) | [GDLauncher](https://gdevs.io) | [Vanilla launcher](https://www.minecraft.net/en-us/download) (manual install) |
 |---|---|---|---|---|---|---|
-| Installation tutorial | [Tutorial](https://fabulously-optimized.gitbook.io/modpack/readme/install-instructions#curseforge-launcher) | [Tutorial](https://fabulously-optimized.gitbook.io/modpack/readme/install-instructions#multimc) | [Tutorial](https://fabulously-optimized.gitbook.io/modpack/readme/install-instructions#multimc-auto-update) | [Tutorial](https://fabulously-optimized.gitbook.io/modpack/readme/install-instructions#prism-launcher) | [Tutorial](https://fabulously-optimized.gitbook.io/modpack/readme/install-instructions#gdlauncher) | [Tutorial](https://fabulously-optimized.gitbook.io/modpack/readme/install-instructions#minecraft-launcher-the-vanilla) |
+| Installation tutorial | [Tutorial](https://fabulously-optimized.gitbook.io/modpack/readme/install-instructions#curseforge-launcher) | [Tutorial](https://fabulously-optimized.gitbook.io/modpack/readme/install-instructions#multimc) | [Tutorial](https://fabulously-optimized.gitbook.io/modpack/readme/install-instructions#multimc-auto-update) | [Tutorial](https://fabulously-optimized.gitbook.io/modpack/readme/install-instructions#prism-launcher) | [Tutorial](https://fabulously-optimized.gitbook.io/modpack/readme/install-instructions#gdlauncher) | [Tutorial](https://fabulously-optimized.gitbook.io/modpack/readme/install-instructions#minecraft-launcher-vanilla) |
 | Easy install | ✅ | ✅ | ✅ | ✅ | ✅ | ❌ |
 | Easy pack upgrade | ✅ | ❌ | ✅ | ✅ | ✅ | ❌ |
 | Easy pack upgrade for newer MC | ✅ | ❌ | ❌ | ✅ | ✅ | ❌ |
@@ -33,38 +42,6 @@ Not sure which edition is right for you? Check this handy table!
 | Unique feature | 1-click install | Nostalgic UI | Always up to date | Steam Deck support | Modern UI | Familiarity | 
 
 ¹ Supports the modpack by increasing its download count, but not with monetary benefits.
-
-## Reviews
-
-[![Current review](https://img.youtube.com/vi/bb8G9X5Q_4I/maxresdefault.jpg)](https://www.youtube.com/watch?v=bb8G9X5Q_4I)
-
-🌐 [eesti keel](https://www.youtube.com/watch?v=z0jKe8XgdP0) | [हिन्दी](https://www.youtube.com/watch?v=K90gsbmhf3w) | [Русский](https://www.youtube.com/watch?v=3Oylcgt1nyw) | [Türkçe](https://www.youtube.com/watch?v=Vj7S5_4Rkfg)
-
-More notable videos:
-* [Review](https://www.youtube.com/watch?v=LRaILLvYwY0) by The Breakdown
-* [Detailed installation tutorial](https://www.youtube.com/watch?v=9HXXyfzUy6Q) by CraftStones
-* [Review](https://www.youtube.com/watch?v=crtB5DnZ3a8) by KoPlexis MC
-* [Review](https://www.youtube.com/watch?v=XR0zJL9blpE) by MobPlay
-* [Review](https://www.youtube.com/watch?v=990XcePXGh0) by MagMa
-* [Playing on a Raspberry Pi 4 (low-power specialized computer)](https://www.youtube.com/watch?v=vVAS8AYNEgU) by whitebelyash
-* [Review of some mods on the pack](https://www.youtube.com/watch?v=8OBkqn4Z4ek) by PD
-
-## Included Mods
-Fabulously Optimized has [a complete list of all the mods included](INCLUDED-MODS.md). Besides the mods that are used in the latest version, it also lists the mods used in older major versions, alternative mods and library mods that are essential for the modpack to work.
-
-See also: [List of bugs fixed in the modpack](https://fabulously-optimized.gitbook.io/modpack/readme/changed-options#fixed-bugs)
-
-
-## Help
-
-Help is provided by:
-
-* [Wiki](https://fabulously-optimized.gitbook.io/modpack/) (how to install, update etc.)
-* [Discord](https://discord.gg/yxaXtaQqdB) (support, update notifications, etc)
-* [Issues](https://github.com/Fabulously-Optimized/fabulously-optimized/issues) (mod suggestions, bug reports)
-* [CurseForge listing comments](https://www.curseforge.com/minecraft/modpacks/fabulously-optimized#comments) (questions and general comments only)
-
-Want to help translate the modpack to your language? [See this tutorial](https://fabulously-optimized.gitbook.io/modpack/readme/language-support)
 
 ## Disclaimers
 
@@ -78,31 +55,31 @@ By using this modpack, you agree to the following:
     *  [The "social interactions" screen](https://minecraft.fandom.com/wiki/Social_Interactions_screen#Usage) can be used by pressing the key `P` in-game or the `Player Reporting` button in the pause menu.
     * On servers where Mojang's chat reporting is optional, the modpack opts out of it for the playing user. Chat status icons are changed to provide more accurate information about the signing state of the server. [Read more](https://fabulously-optimized.gitbook.io/modpack/readme/chat-reporting-faq).
 * Fabulously Optimized does not host any capes or other cosmetics, nor does it encourage users to buy them from any provider. Instead, the modpack encourages users to [prefer free cosmetics](https://fabulously-optimized.gitbook.io/modpack/readme/free-cape), while also giving them options to use any paid cosmetics they've previously obtained from certain providers.  
-* Yes, you can fork/remix this pack [according to the license](https://github.com/Fabulously-Optimized/fabulously-optimized/blob/main/LICENSE.md). You cannot, however, use the "Fabulously Optimized" name or logo to _represent_ your fork (only to mention what you forked from).
+* Yes, you can fork/remix this pack [according to the license](https://github.com/Fabulously-Optimized/fabulously-optimized/blob/main/LICENSE.md). You cannot, however, use the "Fabulously Optimized" name or logo to _represent_ your fork (but you can mention that you forked it).
 
 <br>
 <details>
   
   <summary>Free badges for forks <a href="https://intergrav.github.io/devins-badges-docs">by Devin</a></summary>
   
-  <img alt="Built on Fabulously Optimized" height="56" src="https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@2/assets/cozy/built-with/fabulously-optimized_vector.svg">
+  <a href="https://github.com/Fabulously-Optimized/fabulously-optimized"><img alt="Built on Fabulously Optimized" height="56" src="https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@3/assets/cozy/built-with/fabulously-optimized_vector.svg"></a>
   
   Markdown and HTML for Modrinth/GitHub below; for CurseForge just select and copy the image to get it with the link.
   ```html
   <!-- Markdown -->
-  [![Built on Fabulously Optimized](https://raw.githubusercontent.com/intergrav/devins-badges/v2/assets/cozy/built-with/fabulously-optimized_64h.png)](https://github.com/Fabulously-Optimized/fabulously-optimized)
+  [![Built on Fabulously Optimized](https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@3/assets/cozy/built-with/fabulously-optimized_64h.png)](https://github.com/Fabulously-Optimized/fabulously-optimized)
 
   <!-- HTML (resizeable) -->
-  <img alt="Built on Fabulously Optimized" height="56" src="https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@2/assets/cozy/built-with/fabulously-optimized_vector.svg">
+  <img alt="Built on Fabulously Optimized" height="56" src="https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@3/assets/cozy/built-with/fabulously-optimized_vector.svg">
   ```
-  <img alt="Built on Fabulously Optimized" height="40" src="https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@2/assets/compact/built-with/fabulously-optimized_vector.svg">
+  <a href="https://github.com/Fabulously-Optimized/fabulously-optimized"><img alt="Built on Fabulously Optimized" height="40" src="https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@3/assets/compact/built-with/fabulously-optimized_vector.svg"></a>
   
   Markdown and HTML for Modrinth/GitHub below; for CurseForge just select and copy the image to get it with the link.
   ```html
   <!-- Markdown -->
-  ![Built on Fabulously Optimized](https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@2/assets/compact/built-with/fabulously-optimized_46h.png)
+  ![Built on Fabulously Optimized](https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@3/assets/compact/built-with/fabulously-optimized_46h.png)
   <!-- HTML (resizeable) -->
-  <img alt="Built on Fabulously Optimized" height="40" src="https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@2/assets/compact/built-with/fabulously-optimized_vector.svg">
+  <img alt="Built on Fabulously Optimized" height="40" src="https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@3/assets/compact/built-with/fabulously-optimized_vector.svg">
   ```
   
 </details>
