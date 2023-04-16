@@ -1,11 +1,235 @@
 # Fabulously Optimized changelog
 This is the changelog for the Fabric modpack [Fabulously Optimized](https://www.curseforge.com/minecraft/modpacks/fabulously-optimized). See the [version support FAQ](https://fabulously-optimized.gitbook.io/modpack/readme/version-support).
 
+## 1.19.4
+
+### 4.7.3 (2023-04-15)
+
+Did you know "iris" is a regional term for soft toffee candy? 🍬
+
+- Updated Iris
+  - Bugfixes
+
+### 4.7.2 (2023-04-14)
+
+- Updated Entity Model Features, Fabric API, ImmediatelyFast
+
+### 4.7.1 (2023-04-08)
+
+- Updated Iris
+  - Major update that adds new shader features, improves OptiFine compat, fixes bugs
+  - "Achieved 99% compatibility with OptiFine shaders"
+
+### 4.7.0 (2023-04-07)
+
+4.7.0 is now out! Major changes from 4.6.0 -> 4.7.0:
+
+- Added ImmediatelyFast - optimizes mobs, container blocks, GUI, HUD
+- Added Entity Model Features - a better maintained OptiFine's custom models mod
+- Removed CEM - less compatible and maintained than EMF
+- Removed Mixin Conflict Helper - did not prove useful
+- Removed LazyDFU - no longer needed in 1.19.4
+- Removed Enhanced Block Entities - not yet updated, to be readded later
+
+.
+
+- Bundled resource pack descriptions are now translatable
+- Enabled bugfix for MC-577 - "Mouse buttons block all inventory controls that are not default"
+- You can now click on the list icons in Mod Menu to open mod config, if one exists; on pause menu Bugs button is replaced with Mods
+- Various language updates
+- Updated and enforced Fabric Loader 0.14.19
+
+Changes from 4.7.0-beta.4 -> 4.7.0:
+
+- Updated Fabric API, YetAnotherConfigLib
+- Updated and enforced Fabric Loader 0.14.19 everywhere
+
+See the changelog for a full list of changes.
+
+### 4.7.0-beta.4 (2023-04-03)
+
+- Readded AdvancementInfo
+- Enabled bugfix for MC-577 - "Mouse buttons block all inventory controls that are not default"
+- Updated MMH translation for Chinese Traditional
+- Cleaned Mod Menu config a bit
+- Not yet available: Enhanced Block Entities
+
+### 4.7.0-beta.3 (2023-04-02)
+
+- Added Entity Model Features - a better maintained OptiFine's custom models mod
+  - Latest version of Fresh Animations works seamlessly, other packs may still not be perfect but better overall
+- Removed CEM - less compatible and maintained than EMF
+- Updated Fabric Language Kotlin, MemoryLeakFix
+- Updated Korean, Chinese Traditional, Chinese Simplified in MMH
+- Updated Fabric Loader to 0.14.19 where available
+- Not yet available: AdvancementInfo, Enhanced Block Entities
+
+### 4.7.0-beta.2 (2023-03-29)
+
+Did you know? You can search "OptiFine" in Mod Menu to find out which mods provide OptiFine features.
+
+- Readded LambDynamicLights
+- Updated YetAnotherConfig
+- Added Spanish CRH translation, updated Chinese Traditional MMH translation
+- Updated ImmediatelyFast MMH description
+- Not yet available: AdvancementInfo, Enhanced Block Entities
+
+### 4.7.0-beta.1 (2023-03-28)
+
+FPS go brrr
+
+- Added ImmediatelyFast - improves FPS of mobs, containers, particles, text
+- Updated MemoryLeakFix
+- Updated Korean and Chinese Traditional translations
+- Not yet available: AdvancementInfo, Enhanced Block Entities, LambDynamicLights
+
+### 4.7.0-alpha.8 (2023-03-26)
+
+- Readded MemoryLeakFix
+- Removed Mixin Conflict Helper - did not prove useful
+- Removed LazyDFU - no longer needed in 1.19.4
+- Removed MidnightLib - was not supposed to be separately included
+- Updated Custom Entity Models
+- Disabled OptiGUI's log recommendation
+- Enforced Mod Menu config to hide a library
+- Not yet available: AdvancementInfo, Enhanced Block Entities, LambDynamicLights
+
+### 4.7.0-alpha.7 (2023-03-25)
+
+- Readded CIT Resewn
+- Updated Entity Texture Features, OptiGUI
+- Not yet available: AdvancementInfo, Enhanced Block Entities, LambDynamicLights, MemoryLeakFix
+
+### 4.7.0-alpha.6 (2023-03-24)
+
+- Readded Continuity
+- Temporarily removed AdvancementInfo, CIT Resewn, Enhanced Block Entities, LambDynamicLights, MemoryLeakFix
+
+### 4.7.0-alpha.5 (2023-03-23)
+
+- Updated No Chat Reports
+   - Enabled chat status indicator again as the bug is fixed
+- Updated MMH translations in Simplified Chinese
+- Updated and enforced Fabric Loader 0.14.18
+- Temporarily removed AdvancementInfo, CIT Resewn, Enhanced Block Entities, LambDynamicLights, MemoryLeakFix
+
+### 4.7.0-alpha.4 (2023-03-20)
+
+- Updated Borderless Mining, MidnightControls, OptiGUI
+- Readded Custom Entity Models
+- Updated Traditional and Simplified Chinese translations for MMH and CRH
+- Temporarily disabled chat status indicator because it interferes with chat log navigation
+- Temporarily removed AdvancementInfo, CIT Resewn, Enhanced Block Entities, LambDynamicLights, MemoryLeakFix
+
+### 4.7.0-alpha.3 (2023-03-17)
+
+- Readded FerriteCore, No Chat Reports, MoreCulling
+- Updated Capes, Fabric API, Mod Menu
+  - You can now click on the list icons in Mod Menu to open mod config, if one exists; on pause menu Bugs button is replaced with Mods
+- Temporarily removed AdvancementInfo, CIT Resewn, Custom Entity Models, Enhanced Block Entities, LambDynamicLights, MemoryLeakFix
+
+### 4.7.0-alpha.2-2 (2023-03-17)
+
+Modrinth-exclusive reupload to fix the Prism Launcher crash. Visible version is still "4.7.0-alpha.2".
+
+### 4.7.0-alpha.2 (2023-03-16)
+
+- Updated Cloth Config API, FabricSkyboxes, Mod Menu
+  - Mods button now appears on pause menu, FSB fixed some resource pack compat
+- Readded Lithium 
+- Temporarily removed AdvancementInfo, CIT Resewn, Custom Entity Models, Enhanced Block Entities, FerriteCore, LambDynamicLights, MemoryLeakFix, MoreCulling, No Chat Reports
+
+### 4.7.0-alpha.1 (2023-03-15)
+
+Who let the mods out?!
+
+- Updated Debugify, Entity Culling, Entity Texture Features, Fabric API, FabricSkyboxes, FabricSkyBoxes Interop, Fast Better Grass, Indium, Iris Shaders, Language Reload, MidnightControls, Mod Menu, Puzzle, Reese's Sodium Options, Sodium, Sodium Extra, YetAnotherConfigLib
+  - Known bug: pause menu lacks the Mods button
+- Forced Borderless Mining, Capes
+- Temporarily removed AdvancementInfo, CIT Resewn, Custom Entity Models, Enhanced Block Entities, FerriteCore, LambDynamicLights, Lithium, MemoryLeakFix, MoreCulling, No Chat Reports
+- MMH, CRH, FBG descriptions are now translatable
+- All 4.6.0-beta.12 changes
+  - The "accessibility onboarding" was already previously disabled
+
 ## 1.19.3
+
+### 4.6.1 (2023-04-06)
+
+- Updated Fabric Language Kotlin, MemoryLeakFix, OptiGUI
+- Updated Fabric Loader to 0.14.19
+
+### 4.6.0 (2023-03-24)
+
+Your eyes are not deceiving you. After 3.5 months of development, 4.6.0 is finally released!
+
+**Due to several config changes, it is recommended (but not required) to delete your `options.txt` before upgrading to this version.** Or, if you've already updated, you can just delete it now and it'll update on next launch. Instructions: <https://fabulously-optimized.gitbook.io/modpack/readme/update-instructions#resetting-settings>
+
+Major changes from 4.5.6 -> 4.6.0:
+
+- Added FastQuit - makes quitting singleplayer worlds instant
+- Added MoreCulling - does everything Cull Less Leaves does while having more optimizations
+- Added Model Gap Fix - fixes transparent gaps in held items
+- Removed Smooth Boot - needs device-specific setup, default config is not suitable for every device
+- Removed Cull Less Leaves - replaced by MoreCulling
+- Removed Item Model Fix - replaced by Model Gap Fix
+- Removed Colormatic - not updated yet, may be re-added later
+- Removed LambdaBetterGrass - no longer supported on Fabric
+
+.
+
+- Added Chat Reporting Helper resource pack 
+  - Designed to concisely inform players of chat reporting's existence and where/how it applies, without perceiving it as "good" or "bad"
+  - Makes No Chat Reports icons more neutral
+  - Makes relevant vanilla and No Chat Reports tooltips shorter, clearer, more accurate and unbiased
+  - Translations welcome on Crowdin 
+- Added Fast Better Grass resource pack
+  - Imitates OptiFine's Better Grass (fast mode); fancy mode cannot be replicated yet
+  - Serves as a substitute to LambdaBetterGrass
+  - Must be the first activated resource pack to work
+  - Uses only models, so it works with any other resource pack
+
+.
+
+- Re-enabled more cape providers on Fabric Capes
+    - Please let us know if you get more performance issues on servers due to that
+- Enabled operator blocks in creative menu (if you have operator access)
+- Preemptively disabled the "accessibility onboarding" of 1.19.4
+- Unbound some Zoomify's and FabricSkyBoxes' unexpected keybinds
+- Various language updates
+- Updated and enforced Fabric Loader 0.14.18
+
+See the changelog for a full list of changes.
+
+Changes from 4.6.0-beta.14 -> 4.6.0:
+
+- Readded Continuity
+- Enforced No Chat Reports and Fabric Capes configs again for 4.5.6 upgraders
+
+### 4.6.0-beta.14 (2023-03-23)
+
+- Updated Capes, Fabric API, MoreCulling, OptiGUI
+- Updated MMH and CRH translations
+- Updated and enforced Fabric Loader 0.14.18
+- Mod Menu config enforced again to hide a library
+
+### 4.6.0-beta.13-2 (2023-03-17)
+
+Modrinth-exclusive reupload to fix the Prism Launcher crash. Visible version is still "4.6.0-beta.13".
+
+### 4.6.0-beta.13 (2023-03-16)
+
+- Updated Lithium, FabricSkyboxes
+  - Lithium had bugfixes, FSB fixed some resource pack compat
+
+### 4.6.0-beta.12 (2023-03-15)
+
+- Updated Fabric Language Kotlin, FabricSkyboxes, Language Reload, MemoryLeakFix, Sodium Extra
+- Enforced Fabric Loader 0.14.17
+- Updated MMH and CRH translations in Greek, Korean, Russian
 
 ### 4.6.0-beta.11 (2023-03-05)
 
-Casual reminder: if you get any questions or issues while using FO, our Discord (https://discord.gg/yxaXtaQqdB) is the first place to ask in. Asking in other generic or mod-specific servers may not give you the same support, as they don't know how FO is configured.
+Casual reminder: if you get any questions or issues while using FO, our Discord (https://fabulously-optimized.github.io/discord) is the first place to ask in. Asking in other generic or mod-specific servers may not give you the same support, as they don't know how FO is configured.
 
 - Readded Enhanced Block Entities
 - Removed Better Beds
@@ -254,6 +478,15 @@ Other
 - Updated and enforced Fabric Loader 0.14.11 everywhere
 
 ## 1.19.2
+
+### 4.5.7 (2023-04-06)
+
+Yup, that happened. 
+Due to Minecraft's new release schedule, I can see that some players still need to use 1.19.2, so I've decided to update the mods for you, to fix some crashes with additional mods.
+Keep in mind that this version is still outdated and you should upgrade ASAP.
+
+- Updated Capes, Continuity, Custom Entity Models, Entity Culling, Entity Texture Features, Fabric API, Fabric Language Kotlin, FabricSkyboxes, Iris Shaders, Language Reload, Lithium, MemoryLeakFix, MidnightControls, Puzzle, YetAnotherConfigLib
+- Updated Fabric Loader to 0.14.19
 
 ### 4.5.6 (2023-01-01)
 
@@ -1482,7 +1715,7 @@ Other stuff
 
 ### 2.2.0 (2021-09-29)
 
-New mods, new Mod Menu style and a new Discord server! https://discord.gg/yxaXtaQqdB
+New mods, new Mod Menu style and a new Discord server! https://fabulously-optimized.github.io/discord
 Also known as "the update that couldn't be installed with CurseForge Launcher".
 
 New mods

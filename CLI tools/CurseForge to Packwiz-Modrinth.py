@@ -6,7 +6,7 @@ import toml # pip install toml
 
 user_path = os.path.expanduser("~")
 git_path = user_path + "\\Documents\\GitHub\\fabulously-optimized\\"
-minecraft_version = "1.19.3"
+minecraft_version = "1.19.4"
 packwiz_path = git_path + "Packwiz\\" + minecraft_version + "\\"
 packwiz_exe_path = "..\packwiz.exe"
 mods_path = packwiz_path + "mods"
@@ -58,7 +58,7 @@ if not mmc_export_packwiz_export and not refresh_only:
         os.system(packwiz_exe_path + " remove entityculling")
         os.system(packwiz_exe_path + " mr install entityculling")
         
-elif not mmc_export_packwiz_export and refresh_only: 
+elif refresh_only: 
     os.system(packwiz_exe_path + " refresh")
 
 # Copy fresh manifest/modlist to git
@@ -83,7 +83,7 @@ if mmc_export_packwiz_export and not refresh_only:
     os.remove(packwiz_zip_path)
 
 # Export Modrinth pack and manifest via mmc-export method
-if mmc_export_modrinth_export:
+if mmc_export_modrinth_export and not refresh_only:
     mmc_zip_root = str(Path(cf_zip_path).parents[0])
     mmc_zip_path = mmc_zip_root + "\\Fabulously Optimized " + pack_version + ".zip"
     modrinth_config = git_path + "Modrinth\\mmc-export.toml"

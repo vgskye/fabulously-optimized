@@ -1,15 +1,16 @@
 So you like this modpack and want to support it? That's great! In this page I have listed the ways you can contribute.
 
-### Support
+### Support us
 
 * **[⬇️ Download the pack from CurseForge](https://www.curseforge.com/minecraft/modpacks/fabulously-optimized/)**
   * More specifically, using either
      * [CurseForge Launcher](https://fabulously-optimized.gitbook.io/modpack/readme/install-instructions#curseforge-launcher)
      * [MultiMC](https://fabulously-optimized.gitbook.io/modpack/readme/install-instructions#multimc)
-     * [vanilla launcher](https://fabulously-optimized.gitbook.io/modpack/readme/install-instructions#minecraft-launcher-the-vanilla)
+     * [vanilla launcher](https://fabulously-optimized.gitbook.io/modpack/readme/install-instructions#minecraft-launcher-vanilla)
   * give the pack and mod devs money, other launchers currently do not.
 * **[❤️ Heart and comment on AlternativeTo](https://alternativeto.net/software/fabulously-optimized/about/)**
   * Please sign up before doing it, otherwise it will not count ☹️
+* **[🦸 Get a free FO cape](https://fabulously-optimized.gitbook.io/modpack/readme/free-cape)** 
 * **[🛑 Disable ad blocker on Modrinth](https://docs.modrinth.com/docs/details/ads/#browser-extensions)**
   * [...and then maybe browse my content a bit to give me ad money?](https://modrinth.com/user/robotkoer)
   * I do _not_ recommend disabling it on CurseForge due to the intrusive ads there.

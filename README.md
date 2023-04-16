@@ -7,12 +7,12 @@ A Fabric-based Minecraft modpack focusing on performance and graphics enhancemen
 <a href="https://fabulously-optimized.gitbook.io/modpack/"><img alt="Wiki" height="40" src="https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@3/assets/compact/documentation/gitbook_vector.svg"></a> 
 <a href="https://fabulously-optimized.gitbook.io/modpack/readme/language-support"><img alt="Translate" height="40" src="https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@3/assets/compact/translate/generic-plural_vector.svg"></a>
 
-<a href="https://discord.gg/fabulously-optimized-859124104644788234"><img alt="Discord" height="40" src="https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@3/assets/compact/social/discord-plural_vector.svg"></a> 
+<a href="https://fabulously-optimized.github.io/discord"><img alt="Discord" height="40" src="https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@3/assets/compact/social/discord-plural_vector.svg"></a> 
 <a href="https://floss.social/@fabulouslyoptimized"><img alt="Mastodon" height="40" src="https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@3/assets/compact/social/mastodon-plural_vector.svg"></a>
 
 ## Downloads
 
-[![Download from CurseForge](https://cf.way2muchnoise.eu/full_fabulously-optimized_downloads%20on%20CurseForge.svg?badge_style=for_the_badge)](https://www.curseforge.com/minecraft/modpacks/fabulously-optimized/files) [![Modrinth](https://img.shields.io/modrinth/dt/fabulously-optimized?color=4&label=Download%20from%20Modrinth&style=for-the-badge)](https://modrinth.com/modpack/fabulously-optimized)
+[![Download from CurseForge](https://cf.way2muchnoise.eu/full_fabulously-optimized_downloads%20on%20CurseForge.svg?badge_style=for_the_badge)](https://www.curseforge.com/minecraft/modpacks/fabulously-optimized/files) [![Modrinth](https://img.shields.io/modrinth/dt/fabulously-optimized?logo=modrinth&color=darkgreen&label=Download%20from%20Modrinth&style=for-the-badge)](https://modrinth.com/modpack/fabulously-optimized)
 
 Supports CurseForge Launcher, MultiMC, Prism Launcher, GDLauncher, and vanilla launcher. [Install instructions](https://fabulously-optimized.gitbook.io/modpack/readme/install-instructions)
 
@@ -20,7 +20,7 @@ Supports CurseForge Launcher, MultiMC, Prism Launcher, GDLauncher, and vanilla l
   <summary>Alternative downloads</summary>
 
 _These downloads do not yet support the modpack or the mods :(_
-* [MultiMC (auto-update)](https://fabulously-optimized.gitbook.io/modpack/readme/multimc-auto-update): [1.16.5](https://github.com/Fabulously-Optimized/fabulously-optimized/releases/download/v3.2.3/Fabulously.Optimized.MC.1.16.5.auto-update.zip) | [1.17.1](https://github.com/Fabulously-Optimized/fabulously-optimized/releases/download/v3.2.3/Fabulously.Optimized.MC.1.17.1.auto-update.zip) | [1.18.2](https://github.com/Fabulously-Optimized/fabulously-optimized/releases/download/v3.12.2/Fabulously.Optimized.MC.1.18.2.auto-update.zip) | [1.19.2](https://github.com/Fabulously-Optimized/fabulously-optimized/releases/download/v4.5.6/Fabulously.Optimized.MC.1.19.2.auto-update.zip) | [1.19.3](https://github.com/Fabulously-Optimized/fabulously-optimized/releases/download/v4.6.0-beta.11/Fabulously.Optimized.MC.1.19.3.auto-update.zip)
+* [MultiMC (auto-update)](https://fabulously-optimized.gitbook.io/modpack/readme/multimc-auto-update): [1.16.5](https://github.com/Fabulously-Optimized/fabulously-optimized/releases/download/v3.2.3/Fabulously.Optimized.MC.1.16.5.auto-update.zip) | [1.17.1](https://github.com/Fabulously-Optimized/fabulously-optimized/releases/download/v3.2.3/Fabulously.Optimized.MC.1.17.1.auto-update.zip) | [1.18.2](https://github.com/Fabulously-Optimized/fabulously-optimized/releases/download/v3.12.2/Fabulously.Optimized.MC.1.18.2.auto-update.zip) | [1.19.4](https://github.com/Fabulously-Optimized/fabulously-optimized/releases/download/v4.7.0-beta.3/Fabulously.Optimized.MC.1.19.4.auto-update.zip)
 * ~~Vanilla installer~~ [(planned)](https://github.com/Madis0/fabulously-optimized/issues/110)
 * [GitHub releases](https://github.com/Fabulously-Optimized/fabulously-optimized/releases)
 * [Chat Reporting Helper resource pack](https://kinolien.github.io/gitzip/?download=https://github.com/Fabulously-Optimized/fabulously-optimized/tree/main/Resourcepacks/Chat%20Reporting%20Helper) (bundled in FO)
