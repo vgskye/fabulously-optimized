@@ -12,9 +12,9 @@ A Fabric-based Minecraft modpack focusing on performance and graphics enhancemen
 
 ## Downloads
 
-[![Download from CurseForge](https://cf.way2muchnoise.eu/full_fabulously-optimized_downloads%20on%20CurseForge.svg?badge_style=for_the_badge)](https://www.curseforge.com/minecraft/modpacks/fabulously-optimized/files) [![Modrinth](https://img.shields.io/modrinth/dt/fabulously-optimized?logo=modrinth&color=darkgreen&label=Download%20from%20Modrinth&style=for-the-badge)](https://modrinth.com/modpack/fabulously-optimized)
+[![Download from CurseForge](https://cf.way2muchnoise.eu/full_fabulously-optimized_downloads%20on%20CurseForge.svg?badge_style=for_the_badge)](https://www.curseforge.com/minecraft/modpacks/fabulously-optimized/files) [![Modrinth](https://img.shields.io/modrinth/dt/fabulously-optimized?logo=modrinth&color=darkgreen&label=Download%20from%20Modrinth&style=for-the-badge)](https://modrinth.com/modpack/fabulously-optimized) [![How to install](https://i.ibb.co/FbKTDYs/github.png)](https://fabulously-optimized.gitbook.io/modpack/readme/install-instructions)
 
-Supports CurseForge Launcher, MultiMC, Prism Launcher, GDLauncher, and vanilla launcher. [Install instructions](https://fabulously-optimized.gitbook.io/modpack/readme/install-instructions)
+Supports CurseForge Launcher, Prism Launcher, MultiMC, and vanilla launcher.
 
 <details>
   <summary>Alternative downloads</summary>
@@ -23,25 +23,41 @@ _These downloads do not yet support the modpack or the mods :(_
 * [MultiMC (auto-update)](https://fabulously-optimized.gitbook.io/modpack/readme/multimc-auto-update): [1.16.5](https://github.com/Fabulously-Optimized/fabulously-optimized/releases/download/v3.2.3/Fabulously.Optimized.MC.1.16.5.auto-update.zip) | [1.17.1](https://github.com/Fabulously-Optimized/fabulously-optimized/releases/download/v3.2.3/Fabulously.Optimized.MC.1.17.1.auto-update.zip) | [1.18.2](https://github.com/Fabulously-Optimized/fabulously-optimized/releases/download/v3.12.2/Fabulously.Optimized.MC.1.18.2.auto-update.zip) | [1.19.4](https://github.com/Fabulously-Optimized/fabulously-optimized/releases/download/v4.7.0-beta.3/Fabulously.Optimized.MC.1.19.4.auto-update.zip)
 * ~~Vanilla installer~~ [(planned)](https://github.com/Madis0/fabulously-optimized/issues/110)
 * [GitHub releases](https://github.com/Fabulously-Optimized/fabulously-optimized/releases)
-* [Chat Reporting Helper resource pack](https://kinolien.github.io/gitzip/?download=https://github.com/Fabulously-Optimized/fabulously-optimized/tree/main/Resourcepacks/Chat%20Reporting%20Helper) (bundled in FO)
-  * The resource pack also expects [FO's configuration of NCR](https://kinolien.github.io/gitzip/?download=https://github.com/Fabulously-Optimized/fabulously-optimized/tree/main/Packwiz/1.19.3/config/yosbr/config/NoChatReports) - unpack these to `.../.minecraft/config/NoChatReports`
+* Chat Reporting Helper resource pack: [CurseForge](https://www.curseforge.com/minecraft/texture-packs/chat-reporting-helper) | 
+[Modrinth](https://modrinth.com/resourcepack/chat-reporting-helper) |
+[Planet Minecraft](https://www.planetminecraft.com/texture-pack/chat-reporting-helper) (bundled in FO)
 * Fast Better Grass resource pack: [CurseForge](https://www.curseforge.com/minecraft/texture-packs/fast-better-grass) | [Modrinth](https://modrinth.com/resourcepack/fast-better-grass) | [Planet Minecraft](https://www.planetminecraft.com/texture-pack/fast-better-grass) (bundled in FO)
 </details>
 
 Not sure which edition is right for you? Check this handy table!
-| Feature/Edition | [CurseForge Launcher](https://download.curseforge.com) | [MultiMC](https://multimc.org) | [MultiMC](https://multimc.org) (auto-update) | [Prism Launcher](https://prismlauncher.org/) | [GDLauncher](https://gdevs.io) | [Vanilla launcher](https://www.minecraft.net/en-us/download) (manual install) |
-|---|---|---|---|---|---|---|
-| Installation tutorial | [Tutorial](https://fabulously-optimized.gitbook.io/modpack/readme/install-instructions#curseforge-launcher) | [Tutorial](https://fabulously-optimized.gitbook.io/modpack/readme/install-instructions#multimc) | [Tutorial](https://fabulously-optimized.gitbook.io/modpack/readme/install-instructions#multimc-auto-update) | [Tutorial](https://fabulously-optimized.gitbook.io/modpack/readme/install-instructions#prism-launcher) | [Tutorial](https://fabulously-optimized.gitbook.io/modpack/readme/install-instructions#gdlauncher) | [Tutorial](https://fabulously-optimized.gitbook.io/modpack/readme/install-instructions#minecraft-launcher-vanilla) |
-| Easy install | ✅ | ✅ | ✅ | ✅ | ✅ | ❌ |
-| Easy pack upgrade | ✅ | ❌ | ✅ | ✅ | ✅ | ❌ |
-| Easy pack upgrade for newer MC | ✅ | ❌ | ❌ | ✅ | ✅ | ❌ |
-| Add mods with few clicks | ✅ | ❌ | ❌ | ✅ | ✅ | ❌ |
-| Supports the modpack and mods | ✅ | ✅ | ❌ | ●¹ | ❌ | ✅ |
-| Can be used offline | ❌ | ✅ | ✅ | ✅ | ✅ | ✅ |
-| Linux support | ❌ | ✅ | ✅ | ✅ | ✅ | ✅ |
-| Unique feature | 1-click install | Nostalgic UI | Always up to date | Steam Deck support | Modern UI | Familiarity | 
+| Feature/Edition | [CurseForge Launcher](https://download.curseforge.com) | [Prism Launcher](https://prismlauncher.org/) | [MultiMC](https://multimc.org) | [MultiMC](https://multimc.org) (auto-update) | [Vanilla launcher](https://www.minecraft.net/en-us/download) (manual install) |
+|---|---|---|---|---|---|
+| Installation tutorial | [Tutorial](https://fabulously-optimized.gitbook.io/modpack/readme/install-instructions#curseforge-launcher) | [Tutorial](https://fabulously-optimized.gitbook.io/modpack/readme/install-instructions#prism-launcher) | [Tutorial](https://fabulously-optimized.gitbook.io/modpack/readme/install-instructions#multimc) | [Tutorial](https://fabulously-optimized.gitbook.io/modpack/readme/install-instructions#multimc-auto-update) | [Tutorial](https://fabulously-optimized.gitbook.io/modpack/readme/install-instructions#minecraft-launcher-vanilla) |
+| Easy install | ✅ | ✅ | ✅ | ✅ | ❌ |
+| Easy pack upgrade | ✅ | ✅ | ❌ | ✅ | ❌ |
+| Easy pack upgrade for newer MC | ✅ | ✅ | ❌ | ❌ | ❌ |
+| Add mods with few clicks | ✅ | ✅ | ❌ | ❌ | ❌ |
+| Supports the modpack and mods | ✅ | ●¹ | ●¹ | ❌ | ✅ |
+| Can be used offline | ❌ | ✅ | ✅ | ✅ | ✅ |
+| Linux support | ❌ | ✅ | ✅ | ✅ | ✅ |
+| Unique feature | 1-click install | Steam Deck support | Nostalgic UI | Always up to date | Familiarity |
 
 ¹ Supports the modpack by increasing its download count, but not with monetary benefits.
+
+## Accessibility
+
+Fabulously Optimized is designed to be accessible for everyone, and as such contains the following accessibility features on its latest version. Read more on [changed options](https://fabulously-optimized.gitbook.io/modpack/readme/changed-options).
+
+* The first-run accessibility screen introduced in 1.19.4 is _not_ used, to make the initial run experience smoother and faster. Instead, users can continue to take advantage of the extended keyboard support included in said version.
+  * Languages screen can be accessed by pressing "right arrow" and "enter"
+  * Accessibility screen can be accessed by pressing "left arrow", "left arrow" and "enter"
+* Users can search for and select multiple languages
+  * Selecting multiple languages is useful for users who know several, and for languages with variants (like Spanish), to ensure mods are translated as much as possible
+  * Items have the original names on their tooltips for command usage purposes
+* Game controllers are supported
+* [Several launchers are supported](#downloads)
+* [The purpose and settings for each included mod are displayed in the mod menu](https://fabulously-optimized.gitbook.io/modpack/readme/changed-options#resource-packs)
+* Splash screen is black, similar to Bedrock Edition
 
 ## Disclaimers
 
@@ -53,7 +69,7 @@ By using this modpack, you agree to the following:
 * This modpack disables the [third-party server disclaimer](https://minecraft.fandom.com/wiki/File:Multiplayer_disclaimer.png), so if you are using the multiplayer function, you also agree to the following: 
     > Caution: Online play is offered by third-party servers that are not owned, operated, or supervised by Mojang Studios or Microsoft. During online play, you may be exposed to unmoderated chat messages or other types of user-generated content that may not be suitable for everyone. 
     *  [The "social interactions" screen](https://minecraft.fandom.com/wiki/Social_Interactions_screen#Usage) can be used by pressing the key `P` in-game or the `Player Reporting` button in the pause menu.
-    * On servers where Mojang's chat reporting is optional, the modpack opts out of it for the playing user. Chat status icons are changed to provide more accurate information about the signing state of the server. [Read more](https://fabulously-optimized.gitbook.io/modpack/readme/chat-reporting-faq).
+    * On servers where Mojang's chat reporting is optional, the modpack opts out of it for the playing user - adhering to server's intent. Chat status icons are changed to provide more accurate information about the signing state of the server. [Read more](https://fabulously-optimized.gitbook.io/modpack/readme/chat-reporting-faq).
 * Fabulously Optimized does not host any capes or other cosmetics, nor does it encourage users to buy them from any provider. Instead, the modpack encourages users to [prefer free cosmetics](https://fabulously-optimized.gitbook.io/modpack/readme/free-cape), while also giving them options to use any paid cosmetics they've previously obtained from certain providers.  
 * Yes, you can fork/remix this pack [according to the license](https://github.com/Fabulously-Optimized/fabulously-optimized/blob/main/LICENSE.md). You cannot, however, use the "Fabulously Optimized" name or logo to _represent_ your fork (but you can mention that you forked it).
 

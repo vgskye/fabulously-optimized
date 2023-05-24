@@ -1,6 +1,6 @@
 name = "Fabulously Optimized"
 author = "robotkoer"
-description = "Improve your graphics and performance with this simple modpack. Experimental releases on Modrinth!"
+description = "Improve your graphics and performance with this simple modpack."
 
 [[Resource]]
 name = "Don't Clear Chat History"
@@ -24,12 +24,6 @@ name = "Mod Menu Helper"
 filename = "Mod Menu Helper.zip"
 action = "override"
 
-[[Resource]]
-name = "Chat Reporting Helper"
-filename = "Chat Reporting Helper.zip"
-action = "override"
-
 [[File]]
-name = "Copy all 3 folders!"
-filename = "Copy all 3 folders!"
+name = "Copy all 3 folders and add Sodium!.url"
 action = "remove"

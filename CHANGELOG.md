@@ -3,6 +3,100 @@ This is the changelog for the Fabric modpack [Fabulously Optimized](https://www.
 
 ## 1.19.4
 
+### 4.10.0-beta.1 (2023-05-02)
+
+**This version is no longer supported, use 4.9.1 or later.**
+
+- All 4.9.0 changes
+- Updated Sodium, Sodium Extra, Iris, Indium
+  - It is in beta because the Sodium changes may have caused mod compatibility problems (crashes, freezes etc.) and there is a known memory leak when switching dimensions (portals, hub-based servers, etc.)
+  - On the positive side, chunk rendering "up to 30% faster", plus other rendering improvements
+  - Vanilla users do not have to download Sodium separately in this version
+  - MultiMC (auto-update) will still get 4.9.0 due to above
+
+### 4.9.3 (2023-05-17)
+
+Casual reminder for those who add custom mods to FO: please update FO first and then update your mods individually. 
+Updating all mods at once is not advised, as it may cause unexpected behavior and conflicts, especially when it updates FO mods.
+
+- Updated Chat Reporting Helper, e4mc, No Chat Reports
+- Various minor changes to Mod Menu Helper
+  - Updated Chinese Traditional
+
+### 4.9.2 (2023-05-10)
+
+- Updated Iris, Entity Model Features, Entity Texture Features
+
+### 4.9.1 (2023-05-09)
+
+Note: due to previously mentioned issues, the latest Sodium has now been taken down. Therefore FO 4.10.0-beta.1 is no longer supported and the betas will not continue at the moment.
+
+- Updated Chat Reporting Helper, YetAnotherConfigLib
+- Disabled "fast buffer upload" on ImmediatelyFast to prevent issues on older computers
+
+### 4.9.0 (2023-05-02)
+
+- Updated Fabric API, Farsight (CurseForge only), Mod Menu
+- Updated Greek, Russian and Chinese Traditional translations
+- Chat Reporting Helper is now separately distributed
+  - Allows non-FO users to also easily download it
+    - Will still be bundled in FO as long as it's needed  
+  - Now supports more configurations of vanilla and No Chat Reports
+  - Has a new icon
+
+  <details>
+  
+    - CF https://www.curseforge.com/minecraft/texture-packs/chat-reporting-helper
+    - MR https://modrinth.com/resourcepack/chat-reporting-helper
+    - PMC https://www.planetminecraft.com/texture-pack/chat-reporting-helper
+  
+  </details>
+
+### 4.8.3 (2023-04-28)
+
+- Updated Entity Model Features, Fabric Language Kotlin, Fabrishot, Main Menu Credits, YetAnotherConfigLib
+- Updated Korean translations
+
+### 4.8.2 (2023-04-23)
+
+- Updated Entity Model Features, Entity Texture Features, Fabric API, Mod Menu, YetAnotherConfigLib
+- Moved Mod Menu's config to YOSBR
+- Updated legacy MultiMC version's description
+- Updated vanilla installation dummy file's link
+  - MultiMC (auto-update) no longer has that file
+
+### 4.8.1 (2023-04-21)
+
+- Updated Debugify, Entity Model Features
+  - Debugify fixed a macOS crash
+- Updated Chinese Simplified and Traditional translations
+- Adjusted Modrinth pack manifest
+
+### 4.8.0 (2023-04-20)
+
+New CurseForge site, [new install instructions](https://fabulously-optimized.gitbook.io/modpack/readme/install-instructions) and a new mod!
+
+- Added e4mc - allows opening worlds to public access the same way you can open to LAN
+  - Just click "Open to LAN" on a local world and you'll get an IP to share with friends
+  - Works like normal LAN, so you + 7 players can be online and it will turn off when you leave
+  - Other players don't need to do anything special to join, don't even need the mod
+  - Can be stopped in a LAN session with a click
+- Updated Debugify, Zoomify, YetAnotherConfigLib, Mod Menu
+  - Mod Menu is now separately bundled on CF (more info on FO issue #626)
+- Updated Polish and Chinese Simplified (4.7.4) translations
+- Disabled water sensitivity check and block entities in LambDynamicLights to improve performance
+- Changed "Copy all 3 folders!" to "Copy all 3 folders and add Sodium!" in legacy MultiMC version
+  - Plus it is now clickable at least on Windows to open install instructions in browser
+  - As the new install instructions say, MultiMC users are now encouraged to download through Modrinth instead, that version is available mainly for vanilla users
+
+### 4.7.4 (2023-04-16)
+
+Partially released version due to external matters, marked as alpha on Modrinth.
+
+- Updated Mod Menu, Zoomify, YetAnotherConfigLib
+  - Mod Menu is now separately bundled on CF (more info on FO issue #626)
+- Updated Chinese Simplified translations
+
 ### 4.7.3 (2023-04-15)
 
 Did you know "iris" is a regional term for soft toffee candy? 🍬
