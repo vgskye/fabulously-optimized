@@ -1,7 +1,223 @@
 # Fabulously Optimized changelog
 This is the changelog for the Fabric modpack [Fabulously Optimized](https://www.curseforge.com/minecraft/modpacks/fabulously-optimized). See the [version support FAQ](https://fabulously-optimized.gitbook.io/modpack/readme/version-support).
 
+## 1.20.1
+
+### 5.2.2 (2023-08-02)
+
+- Updated ImmediatelyFast, Sodium Extra, Zoomify, Translations for Sodium
+- Updated Chinese Traditional, German
+- "Fix ghost blocks with /ghost" is now clickable
+
+### 5.2.1 (2023-07-30)
+
+Fabulously Optimized remains unaffected from the Bleeding Pipe/MC Mad Gadget vulnerability.
+
+- Updated Controlify, Fabric API, ImmediatelyFast, Reese's Sodium Options
+- Updated Chinese Traditional, French, German (partial), Russian translations
+
+### 5.2.0 (2023-07-24)
+
+- Added Translations for Sodium - unofficial, but already quite complete crowd-sourced translations
+  - Contribute on https://crowdin.com/project/sodium-fabric
+  - Managed by myself and FlashyReese (Sodium Extra dev) as an independent project
+  
+    <details>
+  
+    - CF https://www.curseforge.com/minecraft/texture-packs/translations-for-sodium
+    - MR https://modrinth.com/resourcepack/translations-for-sodium
+    - GH https://github.com/Madis0/sodium-fabric-translations/
+  
+  </details>
+
+- Updated Continuity, Fabric Language Kotlin, Fabric API, Farsight (CurseForge), OptiGUI, YetAnotherConfigLib
+
+### 5.1.1 (2023-07-19)
+
+- Updated e4mc, FabricSkyboxes Interop, OptiGUI, Sodium Extra
+  - Mod Menu update skipped due to a bug
+- Added Vietnamese and updated Italian, Polish, Portuguese (Brazilian), Chinese (Simplified) translations
+
+### 5.1.0 (2023-07-13)
+
+Aaand it's out! Major changes from 4.11.0 -> 5.1.0:
+
+- Added Controlify - a more featured and maintained controller mod
+- Added Fadeless - direct replacement for the No Fade mod
+- Removed MidnightControls - no longer receiving feature updates, potentially discontinued soon
+- Removed No Fade - no longer works, abandoned
+- Removed Starlight - no longer needed
+- Enabled fix for MC-263865 "Fullscreen state isn't saved"
+- Updated translations
+- Vanilla users should currently continue installing FO as they did before, no changes yet.
+
+Changes from 5.1.0-beta.9 -> 5.1.0:
+
+- Updated Controlify, Entity Model Features, FabricSkyboxes, Puzzle
+- Updated Italian translation
+- Updated some MMH strings
+
+### 5.1.0-beta.9 (2023-07-11)
+
+- Updated Cloth Config API, Controlify, Entity Model Features, Fabric API, Indium
+- Hidden some irrelevant warnings on logs
+
+### 5.1.0-beta.8 (2023-07-09)
+
+- Updated Controlify, Debugify, Fabric Language Kotlin, ImmediatelyFast, Indium, YetAnotherConfigLib
+- Updated Russian and Chinese Traditional translations
+- Enabled fix for MC-263865 "Fullscreen state isn't saved"
+
+### 5.1.0-beta.7 (2023-07-04)
+
+- Updated Controlify, Fabrishot
+
+### 5.1.0-beta.6 (2023-06-28)
+
+- Updated AdvancementInfo, AntiGhost, Controlify
+- Added Romanian and updated French translations
+- Worked around advancement screen glitches/freeze
+
+### 5.1.0-beta.5 (2023-06-26)
+
+- Added Enhanced Block Entities - finally updated lol
+- Removed Better Beds - replaced by EBE
+- Updated FastQuit, No Chat Reports, Remove Reloading Screen
+
+### 5.1.0-beta.4 (2023-06-25)
+
+- Updated Borderless Mining, Entity Model Features, Fabric Language Kotlin, FastQuit, Language Reload, Model Gap Fix
+- Unhid Borderless Mining config GUI
+- Updated Polish, Brazilian Portuguese, Ukrainian, Simplified Chinese
+
+### 5.1.0-beta.3 (2023-06-21)
+
+Time to test new mods!
+
+- Added Controlify - a more featured and maintained controller mod
+- Added Remove Reloading Screen - makes resource packs load in the background, allowing you to do other things while waiting
+- Removed MidnightControls - no longer receiving feature updates, potentially discontinued soon
+- Updated Animatica, Fabric API
+  - Previously mentioned freeze is now fixed in Animatica
+- Temporarily removed FastQuit
+- Force-enabled Borderless Mining
+
+### 5.1.0-beta.2 (2023-06-20)
+
+Almost ready with the existing mods, though continue testing it for stability.
+
+- Updated Dynamic FPS, LambDynamicLights
+- Temporarily removed FastQuit
+- Force-enabled Animatica, Borderless Mining
+
+### 5.1.0-beta.1 (2023-06-19)
+
+- Added Animatica - it still works
+  - It turned out that not everyone could reproduce the game freeze, and those who could, could even reproduce it in Minecraft 1.18.2. As such, this is a bug with a specific resource pack and some other variables (e.g. GPU), not a universal not-yet-updated-mod bug. Therefore, FO will continue to include the mod again.
+- Updated AdvancementInfo, Farsight, Mod Menu, MoreCulling, YetAnotherConfigLib
+  - CurseForge/MMC (AU) version will now use Farsight again
+- Removed hanging sign crash workaround
+- Disabled Borderless Mining config GUI for now (the config _file_ still works)
+- Fixed Fadeless not having MMH strings
+- Updated Chinese Traditional translation
+- Temporarily removed FastQuit, LambDynamicLights
+- Force-enabled Animatica, Borderless Mining
+
+### 5.1.0-alpha.3 (2023-06-15)
+
+- Updated Debugify
+- Worked around hanging sign crash
+- Added fallback string to Main Menu Credits
+
+### 5.1.0-alpha.2 (2023-06-14)
+
+Partly released version because CF delayed with approval and rejected the vanilla version.
+
+- Updated Fabric API, FabricSkyboxes Interop, Lithium, MoreCulling, No Chat Reports, OptiGUI
+- Temporarily removed AdvancementInfo, Farsight, FastQuit, LambDynamicLights
+- Force-enabled Borderless Mining
+
+### 5.1.0-alpha.1 (2023-06-12)
+
+- Updated Capes, Continuity, Debugify, Fabric API, Fabric Language Kotlin, ImmediatelyFast, YOSBR
+  - CIT Resewn and Debugify will now persist your changes to their options
+- Temporarily removed AdvancementInfo, Farsight, FastQuit, LambDynamicLights, Lithium, MoreCulling
+- Force-enabled Borderless Mining, OptiGUI
+
+## 1.20
+
+### 5.0.0-alpha.1 (2023-06-11)
+
+This is it, the first alpha! Took more time than expected but it was worth the wait.
+
+- Added Fadeless - direct replacement for the NoFade mod
+- Removed No Fade - no longer works, abandoned
+- Removed Starlight - no longer needed
+- Updated Better Mount HUD, Cloth Config API, CIT Resewn, Debugify, Dynamic FPS, Entity Culling, Entity Model Features, Entity Texture Features, Fabric API, FabricSkyboxes, FabricSkyboxes Interop, FerriteCore, ImmediatelyFast, Indium, Iris, LanguageReload, Lithium, MemoryLeakFix, MidnightControls, Mod Menu, No Chat Reports, OptiGUI, Puzzle, Reese's Sodium Options, Sodium, Sodium Extra, YetAnotherConfigLib, Zoomify
+- Temporarily removed AdvancementInfo, Farsight, FastQuit, LambDynamicLights, MoreCulling
+  - Currently Hold That Chunk is present on all editions as Farsight is broken
+- Force-enabled Borderless Mining, Capes
+- Disabled EMF in Puzzle
+- Updated Brazilian Portuguese translation
+- Note: MultiMC legacy deprecation is still planned, but it will stay available until the vanilla installer is usable.
+  - Vanilla users no longer have to install Sodium separately
+
 ## 1.19.4
+
+### 4.11.0 (2023-07-11)
+
+- Added Animatica - the issue has been fixed
+- Added Enhanced Block Entities - finally updated!
+- Added Remove Reloading Screen - makes resource packs load in the background, allowing you to do other things while waiting
+- Removed Better Beds - replaced by Enhanced Block Entities
+- Updated Capes, Cloth Config API, Fabric API, Fabric Language Kotlin, Entity Model Features, FabricSkyboxes Interop, Farsight, ImmediatelyFast, Indium, LambDynamicLights, Language Reload, OptiGUI, YetAnotherConfigLib
+- Updated translations
+- Backported config changes from 5.1.0-beta.8
+- Hidden some irrelevant warnings on logs
+
+### 4.10.5 (2023-06-12)
+
+- Updated ImmediatelyFast, OptiGUI, YOSBR
+  - CIT Resewn and Debugify will now persist your changes to their options
+- Updated Brazilian Portuguese translation
+- Disabled EMF in Puzzle
+- Fixed MultiMC (auto-update) version
+
+### 4.10.4 (2023-06-09)
+
+Here's a quick update to remind you that Fabulously Optimized is safe and the 1.20 alpha will come soon. Or is it 1.20.1? Ah, who knows.
+
+- Updated Fabric Language Kotlin, ImmediatelyFast, Language Reload, No Chat Reports, OptiGUI, YetAnotherConfigLib
+  - Zoomify update skipped because it crashes ¯\\\_(ツ)_/¯
+- Updated Brazilian Portuguese and Ukrainian translation
+- Removed ImmediatelyFast workaround
+
+### 4.10.3 (2023-06-06)
+
+- Reverted Indium update
+  - Some resource packs started crashing and skipping chunks (underlying cause is Continuity)
+
+### 4.10.2 (2023-06-06)
+
+- Updated e4mc, Indium, Chat Reporting Helper
+- Updated Polish and Ukrainian translation
+- Attempted to remove "Beasts of the New World"
+  - It is a Forge mod that never was in FO, but somehow showed up in 4.10.1 for CurseForge Launcher... Luckily the mod jar itself was _not_ downloaded even there.
+
+### 4.10.1 (2023-06-03)
+
+- Updated Fabric API, FabricSkyboxes, No Chat Reports
+  - FabricSkyboxes fixed an issue with custom skies and shaders
+- Fixed Mod Menu Helper's alternative mod indicators not being blue per recent change
+
+### 4.10.0 (2023-06-01)
+
+- Added Better Beds - a replacement to Enhanced Block Entities while it is not up to date
+- Removed Animatica - apparently it is _not_ yet compatible with 1.19.4 and one user found it out the hard way
+- Updated Fabric API, FabricSkyboxes, FabricSkyboxes Interop, OptiGUI
+- Updated and enforced Fabric Loader 0.14.21
+- Added French translation to Mod Menu Helper
+- (This version does not have 4.10.0-beta.1 changes)
 
 ### 4.10.0-beta.1 (2023-05-02)
 

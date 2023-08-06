@@ -1,13 +1,13 @@
 name = "FabricSkyBoxes Interop"
-filename = "fsb-interop-1.2.0+mc1.19.4-build.31.jar"
+filename = "fsb-interop-1.3.2+mc1.19.4-build.35.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/HpdHOPOp/versions/Ubocf3Zc/fsb-interop-1.2.0%2Bmc1.19.4-build.31.jar"
+url = "https://cdn.modrinth.com/data/HpdHOPOp/versions/O9VV1X5s/fsb-interop-1.3.2%2Bmc1.19.4-build.35.jar"
 hash-format = "sha512"
-hash = "9132f7b6e93202dd2a35ad764dc757e3af516b14ff83656729f75f319ec57a48e11bd7706a8616b0c721866cb574e9799cecc54b44aaab79302afb03b377a1ac"
+hash = "7a31444c786e1f6d8b85f51b9d9d3fd8ca9191e81d252c4ec2fb47d8871bb0e5d9eab61fcffdf9503436aac9b7f4cd9d7ce9856d2261a54170dabe23758ceac2"
 
 [update]
 [update.modrinth]
 mod-id = "HpdHOPOp"
-version = "Ubocf3Zc"
+version = "O9VV1X5s"
