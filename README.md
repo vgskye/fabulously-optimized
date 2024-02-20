@@ -35,7 +35,8 @@ Not sure which edition is right for you? Check this handy table!
 | Unique feature | 1-click install from site | Import from other launchers | Steam Deck support | Nostalgic UI | Always up to date | Ease of use | Familiar for modders |
 
 ¹ Only latest versions of FO per each Minecraft version
-² Supports the modpack by increasing its download count, but not with monetary benefits.
+
+² Supports the modpack and mods by increasing their download count, but not with monetary benefits.
 
 <details>
   <summary>Alternative downloads</summary>
