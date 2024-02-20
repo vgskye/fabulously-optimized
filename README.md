@@ -25,16 +25,17 @@ Not sure which edition is right for you? Check this handy table!
 | Feature/Edition | [CurseForge App](https://www.curseforge.com/download/app) | [Modrinth App](https://modrinth.com/app) | [Prism Launcher](https://prismlauncher.org/) | [MultiMC](https://multimc.org) | [MultiMC](https://multimc.org) (auto-update) | [Minecraft Launcher](https://www.minecraft.net/en-us/download) (installer) | [Minecraft Launcher](https://www.minecraft.net/en-us/download) (manual install) |
 |---|---|---|---|---|---|---|---|
 | Installation tutorial | [Tutorial](https://wiki.download.fo/readme/install-instructions#curseforge-app) |  [Tutorial](https://wiki.download.fo/readme/install-instructions#modrinth-app) | [Tutorial](https://wiki.download.fo/readme/install-instructions#prism-launcher) | [Tutorial](https://wiki.download.fo/readme/install-instructions#multimc) | [Tutorial](https://wiki.download.fo/readme/install-instructions#multimc-auto-update) | [Tutorial](https://wiki.download.fo/readme/install-instructions#minecraft-launcher-vanilla) | [Tutorial](https://wiki.download.fo/readme/install-instructions#minecraft-launcher-vanilla) |
-| Easy install | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ❌ |
-| Easy pack upgrade | ✅ | ✅ | ✅ | ❌ | ✅ | ✅ | ❌ |
-| Easy pack upgrade for newer MC | ✅ | ✅ | ✅ | ❌ | ❌ | ✅ | ❌ |
+| Easy install | ✅ | ✅ | ✅ | ✅ | ✅ | ✅¹ | ❌ |
+| Easy pack upgrade | ✅ | ✅ | ✅ | ❌ | ✅ | ✅¹ | ❌ |
+| Easy pack upgrade for newer MC | ✅ | ✅ | ✅ | ❌ | ❌ | ✅¹ | ❌ |
 | Add mods with few clicks | ✅ | ✅ | ✅ | ❌ | ❌ | ❌ | ❌ |
-| Supports the modpack and mods | ✅ | ✅ | ●¹ | ●¹ | ●¹ | ●¹ | ●¹ |
+| Supports the modpack and mods | ✅ | ✅ | ●² | ●² | ●² | ●² | ●² |
 | Can be played offline after install | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ |
 | Windows, macOS, Linux support | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ |
 | Unique feature | 1-click install from site | Import from other launchers | Steam Deck support | Nostalgic UI | Always up to date | Ease of use | Familiar for modders |
 
-¹ Supports the modpack by increasing its download count, but not with monetary benefits.
+¹ Only latest versions of FO per each Minecraft version
+² Supports the modpack by increasing its download count, but not with monetary benefits.
 
 <details>
   <summary>Alternative downloads</summary>
