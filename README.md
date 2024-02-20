@@ -25,8 +25,8 @@ Not sure which edition is right for you? Check this handy table!
 | Feature/Edition | [CurseForge App](https://www.curseforge.com/download/app) | [Modrinth App](https://modrinth.com/app) | [Prism Launcher](https://prismlauncher.org/) | [MultiMC](https://multimc.org) | [MultiMC](https://multimc.org) (auto-update) | [Minecraft Launcher](https://www.minecraft.net/en-us/download) (installer) | [Minecraft Launcher](https://www.minecraft.net/en-us/download) (manual install) |
 |---|---|---|---|---|---|---|---|
 | Installation tutorial | [Tutorial](https://wiki.download.fo/readme/install-instructions#curseforge-app) |  [Tutorial](https://wiki.download.fo/readme/install-instructions#modrinth-app) | [Tutorial](https://wiki.download.fo/readme/install-instructions#prism-launcher) | [Tutorial](https://wiki.download.fo/readme/install-instructions#multimc) | [Tutorial](https://wiki.download.fo/readme/install-instructions#multimc-auto-update) | [Tutorial](https://wiki.download.fo/readme/install-instructions#minecraft-launcher-vanilla) | [Tutorial](https://wiki.download.fo/readme/install-instructions#minecraft-launcher-vanilla) |
-| Easy install | ✅ | ✅ | ✅ | ✅ | ✅ | ✅¹ | ❌ |
-| Easy pack upgrade | ✅ | ✅ | ✅ | ❌ | ✅ | ✅¹ | ❌ |
+| Easy install | ✅ | ✅ | ✅ | ✅ | ✅¹ | ✅¹ | ❌ |
+| Easy pack upgrade | ✅ | ✅ | ✅ | ❌ | ✅¹ | ✅¹ | ❌ |
 | Easy pack upgrade for newer MC | ✅ | ✅ | ✅ | ❌ | ❌ | ✅¹ | ❌ |
 | Add mods with few clicks | ✅ | ✅ | ✅ | ❌ | ❌ | ❌ | ❌ |
 | Supports the modpack and mods | ✅ | ✅ | ●² | ●² | ●² | ●² | ●² |
